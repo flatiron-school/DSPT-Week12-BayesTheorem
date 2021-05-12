@@ -1,6 +1,6 @@
 # Week 12 - Practice with Bayes' Theorem
 
-Howdy! Click into the Illumidesk link for some practice with Bayes' Theorem.
+Howdy! Click into the notebook for some practice with Bayes' Theorem.
 
 -----
 
